@@ -1,1 +1,1 @@
-# auquan_project
+# Auquan Capstone Project
